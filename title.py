@@ -29,5 +29,5 @@ def extract_title(image_path):
 
     return titulo_limpio
 
-resultado = extract_title("image2.png")
+resultado = extract_title("image.png")
 print(resultado)

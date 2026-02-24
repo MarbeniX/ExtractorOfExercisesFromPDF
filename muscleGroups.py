@@ -44,5 +44,5 @@ def interpretar_musculos(image_path):
                 musculos_encontrados.append(nombre_oficial)
     return musculos_encontrados
 
-resultado = interpretar_musculos("image7.png")
+resultado = interpretar_musculos("image9.png")
 print(resultado)
